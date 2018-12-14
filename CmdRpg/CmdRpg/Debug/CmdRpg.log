@@ -1,0 +1,7 @@
+﻿  Player.cpp
+c:\users\rundra\source\repos\cmdrpg\cmdrpg\player.cpp(61): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\rundra\source\repos\cmdrpg\cmdrpg\player.cpp(65): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\rundra\source\repos\cmdrpg\cmdrpg\player.cpp(70): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\rundra\source\repos\cmdrpg\cmdrpg\player.cpp(78): warning C4244: '-=': conversion from 'float' to 'int', possible loss of data
+c:\users\rundra\source\repos\cmdrpg\cmdrpg\player.cpp(86): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  CmdRpg.vcxproj -> C:\Users\Rundra\source\repos\CmdRpg\Debug\CmdRpg.exe
